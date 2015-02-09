@@ -1,0 +1,5 @@
+C:\Users\brand_000\Desktop\Article_src\MEFApplication\bin\Debug\ImportingLib.dll
+C:\Users\brand_000\Desktop\Article_src\MEFApplication\bin\Debug\ImportingLib.pdb
+C:\Users\brand_000\Desktop\Article_src\ImportingLib\obj\Debug\ImportingLib.csprojResolveAssemblyReference.cache
+C:\Users\brand_000\Desktop\Article_src\ImportingLib\obj\Debug\ImportingLib.dll
+C:\Users\brand_000\Desktop\Article_src\ImportingLib\obj\Debug\ImportingLib.pdb

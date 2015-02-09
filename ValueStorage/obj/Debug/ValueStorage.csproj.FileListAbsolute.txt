@@ -1,0 +1,10 @@
+C:\Users\brand_000\documents\visual studio 2013\Projects\QAScanner\ValueStorage\bin\Debug\ValueStorage.dll.config
+C:\Users\brand_000\documents\visual studio 2013\Projects\QAScanner\ValueStorage\bin\Debug\ValueStorage.dll
+C:\Users\brand_000\documents\visual studio 2013\Projects\QAScanner\ValueStorage\bin\Debug\ValueStorage.pdb
+C:\Users\brand_000\documents\visual studio 2013\Projects\QAScanner\ValueStorage\bin\Debug\EntityFramework.dll
+C:\Users\brand_000\documents\visual studio 2013\Projects\QAScanner\ValueStorage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brand_000\documents\visual studio 2013\Projects\QAScanner\ValueStorage\bin\Debug\EntityFramework.xml
+C:\Users\brand_000\documents\visual studio 2013\Projects\QAScanner\ValueStorage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brand_000\documents\visual studio 2013\Projects\QAScanner\ValueStorage\obj\Debug\ValueStorage.dll
+C:\Users\brand_000\documents\visual studio 2013\Projects\QAScanner\ValueStorage\obj\Debug\ValueStorage.pdb
+C:\Users\brand_000\documents\visual studio 2013\Projects\QAScanner\ValueStorage\obj\Debug\ValueStorage.csprojResolveAssemblyReference.cache
